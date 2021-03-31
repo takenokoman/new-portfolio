@@ -1,1 +1,1 @@
-# new-portfolio
+# Takenokomanのポートフォリオサイトのリポジトリーです
