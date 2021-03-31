@@ -1,0 +1,71 @@
+/*スマホ横*/
+@media screen and (min-width: 481px) {
+  .title {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+  .skill-content li {
+    font-size: 20px;
+  }
+  .skill-content div {
+    width: 45%;
+  }
+  .copyright p {
+    font-size: 20px;
+  }
+  .gnav li {
+    font-size: 20px;
+  }
+  nav {
+    height: 80px;
+  }
+
+  .btn {
+    width: 80px;
+    height: 80px;
+  }
+  .prof-icon {
+    width: 200px;
+  }
+}
+/*タブレット,pc*/
+@media screen and (min-width: 769px) {
+  .title {
+    font-size: 40px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  .skill-content li {
+    font-size: 30px;
+  }
+  .skill-content div {
+    width: 40%;
+  }
+  .copyright p{
+    font-size: 30px;
+  }
+  .gnav li {
+    font-size: 30px;
+  }
+  .prof-icon {
+    width: 250px;
+  }
+}
+/*pc*/
